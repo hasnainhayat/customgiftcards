@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/customgiftcards/static/css/main.cfa753c9.chunk.css",
-    "main.js": "/customgiftcards/static/js/main.553b67d4.chunk.js",
-    "main.js.map": "/customgiftcards/static/js/main.553b67d4.chunk.js.map",
-    "runtime-main.js": "/customgiftcards/static/js/runtime-main.6bc55fc5.js",
-    "runtime-main.js.map": "/customgiftcards/static/js/runtime-main.6bc55fc5.js.map",
-    "static/js/2.fc9c8bd7.chunk.js": "/customgiftcards/static/js/2.fc9c8bd7.chunk.js",
-    "static/js/2.fc9c8bd7.chunk.js.map": "/customgiftcards/static/js/2.fc9c8bd7.chunk.js.map",
-    "static/js/3.c109b8a7.chunk.js": "/customgiftcards/static/js/3.c109b8a7.chunk.js",
-    "static/js/3.c109b8a7.chunk.js.map": "/customgiftcards/static/js/3.c109b8a7.chunk.js.map",
+    "main.css": "/customgiftcards/static/css/main.3ae60620.chunk.css",
+    "main.js": "/customgiftcards/static/js/main.c590838e.chunk.js",
+    "main.js.map": "/customgiftcards/static/js/main.c590838e.chunk.js.map",
+    "runtime-main.js": "/customgiftcards/static/js/runtime-main.265cc21c.js",
+    "runtime-main.js.map": "/customgiftcards/static/js/runtime-main.265cc21c.js.map",
+    "static/js/2.16a0de74.chunk.js": "/customgiftcards/static/js/2.16a0de74.chunk.js",
+    "static/js/2.16a0de74.chunk.js.map": "/customgiftcards/static/js/2.16a0de74.chunk.js.map",
+    "static/js/3.b0ee94c4.chunk.js": "/customgiftcards/static/js/3.b0ee94c4.chunk.js",
+    "static/js/3.b0ee94c4.chunk.js.map": "/customgiftcards/static/js/3.b0ee94c4.chunk.js.map",
     "index.html": "/customgiftcards/index.html",
-    "static/css/main.cfa753c9.chunk.css.map": "/customgiftcards/static/css/main.cfa753c9.chunk.css.map",
-    "static/js/2.fc9c8bd7.chunk.js.LICENSE.txt": "/customgiftcards/static/js/2.fc9c8bd7.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/customgiftcards/static/media/eid-mubarak.2af8856d.jpg"
+    "static/css/main.3ae60620.chunk.css.map": "/customgiftcards/static/css/main.3ae60620.chunk.css.map",
+    "static/js/2.16a0de74.chunk.js.LICENSE.txt": "/customgiftcards/static/js/2.16a0de74.chunk.js.LICENSE.txt",
+    "static/media/eid-card-1.dbb87ac0.png": "/customgiftcards/static/media/eid-card-1.dbb87ac0.png",
+    "static/media/eid-card-2.70e71328.png": "/customgiftcards/static/media/eid-card-2.70e71328.png",
+    "static/media/eid-card-3.06ca01ad.png": "/customgiftcards/static/media/eid-card-3.06ca01ad.png",
+    "static/media/eid-card-4.2ffd220a.png": "/customgiftcards/static/media/eid-card-4.2ffd220a.png",
+    "static/media/eid-card-5.ab1b8a2b.png": "/customgiftcards/static/media/eid-card-5.ab1b8a2b.png",
+    "static/media/eid-card-6.935fd4c9.png": "/customgiftcards/static/media/eid-card-6.935fd4c9.png",
+    "static/media/eid-card-7.c4781557.png": "/customgiftcards/static/media/eid-card-7.c4781557.png",
+    "static/media/eid-card-8.d2911648.png": "/customgiftcards/static/media/eid-card-8.d2911648.png",
+    "static/media/eid-card-9.1ef64b7d.png": "/customgiftcards/static/media/eid-card-9.1ef64b7d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6bc55fc5.js",
-    "static/js/2.fc9c8bd7.chunk.js",
-    "static/css/main.cfa753c9.chunk.css",
-    "static/js/main.553b67d4.chunk.js"
+    "static/js/runtime-main.265cc21c.js",
+    "static/js/2.16a0de74.chunk.js",
+    "static/css/main.3ae60620.chunk.css",
+    "static/js/main.c590838e.chunk.js"
   ]
 }
