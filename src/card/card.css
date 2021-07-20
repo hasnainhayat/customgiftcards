@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,700&display=swap');
+.card{
+    margin: 2rem;
+position: relative;
+    height: 400px !important;
+    width: 400px !important;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+
+.card h2{
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif !important;
+    color:#f2af0d !important;
+    position:absolute;
+    bottom: 1rem;
+    left: 40%;
+}
